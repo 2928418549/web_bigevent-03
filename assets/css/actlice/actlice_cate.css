@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: #f2f3f5;
+    padding: 15px;
+}
+/* 设置卡片主体区域的宽度 */
+.layui-card-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#form-Add{
+    padding-top: 20px;
+    padding-right: 30px;
+}   
+#form-edit{
+    padding-top: 20px;
+    padding-right: 30px;
+}   
+  
